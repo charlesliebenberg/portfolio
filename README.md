@@ -2,7 +2,7 @@
 
 Welcome to my github. Currently I have three projects avaliable to view:
 ## 1. Predicting life expectancy with GLMS's
-In this project roughly 300 countries and their associated medical, educational and economic statistics are used to predict life expectancy.
+In this project roughly 170 countries and their associated medical, educational and economic statistics are used to predict life expectancy.
 
 ## 2. Stock Price Prediction using Recurrent Neural Networks 
 In this project, Long Short-term Memory models were used to predict stock prices. The final model used an ensemble learning approach combining the use of a 1D Convolutional Network and a Long SHort Term Model with Keras's functional API.
