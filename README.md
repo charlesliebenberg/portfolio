@@ -20,7 +20,7 @@ In this project, the dataset Cifar10 was classified with the use of Convolutiona
 
 <object data="https://github.com/charlesliebenberg/portfolio/blob/main/Python/Image%20Classification%20with%20CNNs.pdf" type="application/pdf" width="700px" height="700px">
 
-    <embed src="https://github.com/charlesliebenberg/portfolio/blob/main/Python/Image%20Classification%20with%20CNNs.pdf">
+    <embed src=https://github.com/charlesliebenberg/portfolio/blob/main/Python/Image%20Classification%20with%20CNNs.pdf">
 
         <p>Report: <a href="https://github.com/charlesliebenberg/portfolio/blob/main/Python/Image%20Classification%20with%20CNNs.pdf">View Report</a>.</p>
 
@@ -32,7 +32,7 @@ In this project, the dataset Cifar10 was classified with the use of Convolutiona
 
 <object data="https://github.com/charlesliebenberg/portfolio/blob/main/Python/CNNImageClassification.ipynb" type="application/ipynb" width="700px" height="700px">
 
-    <embed src="https://github.com/charlesliebenberg/portfolio/blob/main/Python/CNNImageClassification.ipynb">
+    <embed src=https://github.com/charlesliebenberg/portfolio/blob/main/Python/CNNImageClassification.ipynb">
 
         <p>Code: <a href="https://github.com/charlesliebenberg/portfolio/blob/main/Python/CNNImageClassification.ipynb">View Code</a>.</p>
 
@@ -53,7 +53,7 @@ In this project, Long Short-term Memory models were used to predict stock prices
 
 <object data="https://github.com/charlesliebenberg/portfolio/blob/main/Python/Recurrent%20Neural%20Networks%20in%20Stock%20Price%20Prediction.pdf" type="application/pdf" width="700px" height="700px">
 
-    <embed src="https://github.com/charlesliebenberg/portfolio/blob/main/Python/Recurrent%20Neural%20Networks%20in%20Stock%20Price%20Prediction.pdf">
+    <embed src=https://github.com/charlesliebenberg/portfolio/blob/main/Python/Recurrent%20Neural%20Networks%20in%20Stock%20Price%20Prediction.pdf">
 
         <p>Report: <a href="https://github.com/charlesliebenberg/portfolio/blob/main/Python/Recurrent%20Neural%20Networks%20in%20Stock%20Price%20Prediction.pdf">View Report</a>.</p>
 
@@ -65,7 +65,7 @@ In this project, Long Short-term Memory models were used to predict stock prices
 
 <object data="https://github.com/charlesliebenberg/portfolio/blob/main/Python/RNNStockPricePrediction.ipynb" type="application/ipynb" width="700px" height="700px">
 
-    <embed src="https://github.com/charlesliebenberg/portfolio/blob/main/Python/RNNStockPricePrediction.ipynb">
+    <embed src=https://github.com/charlesliebenberg/portfolio/blob/main/Python/RNNStockPricePrediction.ipynb">
 
         <p>Code: <a href="https://github.com/charlesliebenberg/portfolio/blob/main/Python/RNNStockPricePrediction.ipynb">View Code</a>.</p>
 
@@ -108,7 +108,7 @@ In this project roughly 170 countries and their associated medical, educational 
 
 <object data="https://github.com/charlesliebenberg/portfolio/blob/main/R/LifeExpectancyReport.pdf" type="application/pdf" width="700px" height="700px">
 
-    <embed src="https://github.com/charlesliebenberg/portfolio/blob/main/R/LifeExpectancyReport.pdf">
+    <embed src=https://github.com/charlesliebenberg/portfolio/blob/main/R/LifeExpectancyReport.pdf">
 
         <p>Code: <a href="https://github.com/charlesliebenberg/portfolio/blob/main/R/LifeExpectancyReport.pdf">View Report</a>.</p>
 
