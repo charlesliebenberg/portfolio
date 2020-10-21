@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="600" height="200" src="https://github.com/MuizM/MuizM/blob/main/MUIZ%20MURAD%20(1).png">
+  ## Charles Liebenberg's Portfolio
 
 </p>
 
