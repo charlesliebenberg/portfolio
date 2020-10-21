@@ -10,7 +10,7 @@
 **Python**
 
 
- 
+ <details>
 
 <summary>Convolutional Neural Network (Python)</summary>
 
