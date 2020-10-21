@@ -12,7 +12,7 @@
 
  <details>
 
-<summary>Convolutional Neural Network (Python)</summary>
+<summary>Convolutional Neural Network </summary>
 
 In this project, the dataset Cifar10 was classified with the use of Convolutional Neural Networks. A final accuracy of 90.45% was achieved on external data.
 
@@ -44,7 +44,7 @@ In this project, the dataset Cifar10 was classified with the use of Convolutiona
 
 <details>
 
-<summary>Recurrent Neural Network (Python)</summary>
+<summary>Recurrent Neural Network </summary>
 
 In this project, Long Short-term Memory models were used to predict stock prices. The final model used an ensemble learning approach combining the use of a 1D Convolutional Network and a Long Short Term Model with Keras's functional API.
  
@@ -85,7 +85,7 @@ In this project, Long Short-term Memory models were used to predict stock prices
 
 <details>
 
-<summary>Life Expectancy Prediction with GLMs (R)</summary>
+<summary>Life Expectancy Prediction with GLMs </summary>
 
 In this project roughly 170 countries and their associated medical, educational and economic statistics are used to predict life expectancy. R was used to model, with a focus on generalised linear models.
 
@@ -118,7 +118,7 @@ In this project roughly 170 countries and their associated medical, educational 
 
 <details>
 
-<summary>Shiny Dashboard (R)</summary>
+<summary>Shiny Dashboard </summary>
 
 Essentially this will be a dashboard which is built using Shiny. For the tree, logistic regression and KNN models, the app will build the models and for each model, it will show visualizations of the model and its fitness for purpose. The app would then allow a salesperson to input the specific details of the customer they are talking to, and receive a prediction from each of the underlying models. Based on this prediction, the salesperson could make targeted offers to the customer.
 
